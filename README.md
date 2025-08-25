@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou Pablo, estudante de Ciência da Computação na UEPB com interesse em segurança digital e programação. Gosto de criar projetos que exploram lógica, algoritmos e sistemas do mundo real.</h2>
+<h2 align="left">Hello World! I'm Pablo, a CS student at UEPB, focused on programming, digital security, and building projects.</h2>
 
 ###
 
