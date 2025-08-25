@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Pablo, a CS studen, focused on programming, digital security, and building projects.</h2>
+<h2 align="left">Hello World! I'm Pablo, a CS student, focused on programming, digital security, and building projects.</h2>
 
 ###
 
