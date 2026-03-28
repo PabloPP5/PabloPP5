@@ -10,5 +10,7 @@ Hello World! I'm Pablo, a Computer Science student and developer focused on Back
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-pablogamboa.vercel.app/api?username=PabloPP5&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&custom_title=Pablo's Backend Stats" alt="Pablo's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterhstlq-atul-hostelq.vercel.app/api?username=PabloPP5&show_icons=true&theme=onedark&title_color=f97316&icon_color=f97316&text_color=e2e8f0&bg_color=0a0a0a&hide_border=true" alt="Pablo's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloPP5&theme=onedark&fire=f97316&ring=f97316&currStreakLabel=f97316&hide_border=true&sideNums=e2e8f0&sideLabels=e2e8f0" alt="GitHub Streak" />
 </p>
